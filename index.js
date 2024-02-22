@@ -65,8 +65,3 @@ function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 chat('[b][color=BlueViolet]Bot đã online lúc ' + (new Date()).toString() + '[/color][/b]');
-await fetchBaoKho("PHPSESSID=eeiksksgp38h72vm7rk60dtnvp; USER=LFvcd8nVBson%3A1hRzSg8iZZgYhr5lPpvuV8E7AJF2Vg%2FzNBnLHL5tnwt4; reada=1", 'nuoisamhamga');
-await delay(2000);
-await fetchBaoKho("PHPSESSID=1aeqhcrjkop33u754asjlt8iej; USER=%2FXPxkg1yaSLJ%3AFcGE1xXdWniG1S5ew7Qq821bEYAIMJll7qTmo7NM6Q59; reada=376", 'nuoisamhamga');
-await delay(2000);
-await fetchBaoKho("USER=QRhPfJMd3ecw%3Avxjd6tgrL9QU%2BMSm6g18xYEezF7aouOdp1%2BuLRyaMtIL; PHPSESSID=ha63ukuhcl447upac04ouhs87b; reada=11", '123456987');
