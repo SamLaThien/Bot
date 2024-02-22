@@ -1,5 +1,5 @@
-export const BANK_COOKIE = "USER=EKMapildsClZ%3AcUMENaNXkVRLESyEwHjfAt%2FQtkRCA1MYKg8WKU51hgYQ";
-export const CM_COOKIE = "PHPSESSID=1aeqhcrjkop33u754asjlt8iej; USER=%2FXPxkg1yaSLJ%3AFcGE1xXdWniG1S5ew7Qq821bEYAIMJll7qTmo7NM6Q59; reada=376";
+export const BANK_COOKIE = "";
+export const CM_COOKIE = "";
 export const BOT_ID = "";
 export const BOT_URL = "";
 export const CHUYEN_DO_IDS = [600600,246261,228826,197365,666666,452378,96811];
